@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: #fff;
+}
+
+.card-body {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.card-body p {
+    font-size: 20px;
+    color: #fff;
+}
+
+.msg {
+    color: red;
+    font-size: 16px;
+}
+
+.allbtn {
+    text-align: center;
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    margin: 0 5px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.clear {
+    display: none;
+}
